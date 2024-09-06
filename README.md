@@ -1,7 +1,3 @@
-Since I cannot directly search or retrieve media from the internet, here’s an updated version of your README.md with placeholders for GIF illustrations. You can manually find relevant GIFs online (e.g., from websites like [Giphy](https://giphy.com/) or [Tenor](https://tenor.com/)) and embed them using the following instructions.
-
----
-
 # Keystroke Dynamics Data Collection Tool
 
 This Python script is designed to collect and analyze keystroke dynamics, which can be used to identify unique typing patterns. The tool runs in the background and automatically logs parameters such as dwell time, flight time, typing speed, and error rate. The collected data is saved in a CSV file for future analysis and model training.
