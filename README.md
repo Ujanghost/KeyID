@@ -28,14 +28,11 @@ This tool incorporates neural networks (NN) and deep learning (DL) technologies 
 - **Output Layer**: Provides predictions on user identity by comparing typing data with stored profiles.
 
 Here's a simple illustration of how the neural network works:
-![NN Illustration](https://example.com/nn.gif)  
-*(Replace the URL with an actual GIF illustrating neural networks)*
 
 ### Deep Learning in Action
 
 The deep learning model can recognize complex patterns like common digraph times (e.g., "th," "he") and error patterns, which might not be noticeable through traditional statistical methods. Below is a visual demonstration of deep learning models learning from keystroke dynamics:
-![Deep Learning GIF](https://example.com/dl.gif)  
-*(Replace the URL with a GIF showing deep learning in action)*
+
 
 ## Data Collected
 
@@ -136,7 +133,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 Your Name  
-Email: [your-email@example.com](mailto:ujan.g570@gmail.com)  
+Email: [ujan.g570@gmail.com](mailto:ujan.g570@gmail.com)  
 
 Feel free to reach out with any questions, suggestions, or contributions!
 
